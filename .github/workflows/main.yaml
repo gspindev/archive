@@ -1,6 +1,6 @@
 name: Advanced Usage
 
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 
 env:
   FILE_NAME: angular-interview-questions
